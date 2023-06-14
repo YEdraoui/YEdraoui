@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YEdraoui
 - 👀 I’m interested in Ethical hacking and programming using several languages.
-- 🌱 I’m currently learning programming using C and Python.
+- 🌱 I’m currently learning programming using C and Java.
 - 💞️ I’m looking to collaborate on learning ethical hacking.
 - 📫 How to reach me ...
 
